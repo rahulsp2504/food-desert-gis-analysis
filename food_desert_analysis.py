@@ -25,7 +25,7 @@ warnings.filterwarnings("ignore")
 # → Application → Register → Add redirect URI:
 # urn:ietf:wg:oauth:2.0:oob
 
-UCI_URL    = "https://uci.maps.arcgis.com"
+UCI_URL    = "https://ucirvine.maps.arcgis.com"
 CLIENT_ID  = "YOUR_CLIENT_ID_HERE"
 
 gis = GIS(UCI_URL, client_id=CLIENT_ID)
