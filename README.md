@@ -47,6 +47,3 @@ Research Atlas 2019 data.
 - `food_desert_analysis.py` — complete pipeline
 - `state_food_access_stats.csv` — state-level aggregation (all US)
 
-## Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Experience Builder](screenshots/experience_builder.png)
