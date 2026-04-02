@@ -35,3 +35,15 @@ Research Atlas 2019 data.
 - `food_desert_analysis.py` — main pipeline
 - `food_access_clean.csv` — cleaned output (72K rows)
 - `state_food_access_stats.csv` — state-level aggregation
+
+## Live Products
+- [🗺️ Interactive Dashboard](https://www.arcgis.com/apps/dashboards/26d4ce294f764a7e8ec24356e19b5124)
+- [🔍 Experience Builder App](https://experience.arcgis.com/experience/9ddbdcd5dbe5410c8c47a0dc6289613d)
+
+## Key Findings
+- 536 food desert census tracts in California
+- 2.7 million people live in food deserts
+- Food desert tracts have 60% higher poverty rates (22.4% vs 14.0%)
+- Median family income gap: $54K vs $89K
+- Hispanic communities disproportionately affected (43.8% vs 35.9%)
+- SNAP dependency nearly double in food desert tracts (5.2% vs 3.0%)
