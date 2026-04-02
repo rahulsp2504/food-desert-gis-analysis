@@ -58,11 +58,9 @@ Split into food desert vs non-food desert groups and compared:
 - Distance to stores is primary barrier — no vehicle rates are similar, 
   suggesting store placement matters more than transit improvement
 
-### GIS Products
-- **Hosted Feature Layer** — 8,024 California census tracts with food access attributes
-- **[Dashboard](https://www.arcgis.com/apps/dashboards/26d4ce294f764a7e8ec24356e19b5124)** — KPI cards, county charts, poverty comparison
-- **[Experience Builder](https://experience.arcgis.com/experience/9ddbdcd5dbe5410c8c47a0dc6289613d)** — Interactive explorer with county filter and demographic analysis
-
+## Live Products (open in new tab)
+- Dashboard: `https://www.arcgis.com/apps/dashboards/26d4ce294f764a7e8ec24356e19b5124`
+- Experience Builder: `https://experience.arcgis.com/experience/9ddbdcd5dbe5410c8c47a0dc6289613d`
 
 ## Screenshots
 ![Dashboard](food_desert_dashboard.png)
