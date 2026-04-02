@@ -22,9 +22,13 @@ Research Atlas 2019 data.
 - Hispanic communities disproportionately affected (43.8% vs 35.9%)
 - SNAP dependency nearly double (5.2% vs 3.0%)
 
-## Live Products
-- [Dashboard](https://www.arcgis.com/apps/dashboards/26d4ce294f764a7e8ec24356e19b5124)
-- [Experience Builder](https://experience.arcgis.com/experience/9ddbdcd5dbe5410c8c47a0dc6289613d)
+## Screenshots
+![Dashboard](screenshots/dashboard.png)
+![Experience Builder](screenshots/experience_builder.png)
+
+## Live Products (open in new tab)
+- Dashboard: `https://www.arcgis.com/apps/dashboards/26d4ce294f764a7e8ec24356e19b5124`
+- Experience Builder: `https://experience.arcgis.com/experience/9ddbdcd5dbe5410c8c47a0dc6289613d`
 
 ## Tech Stack
 - Python (pandas, numpy, requests, arcgis)
