@@ -23,8 +23,8 @@ Research Atlas 2019 data.
 - SNAP dependency nearly double (5.2% vs 3.0%)
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Experience Builder](screenshots/experience_builder.png)
+![Dashboard](food_desert_dashboard.png)
+![Experience Builder](ExperienceBuilder.png)
 
 ## Live Products (open in new tab)
 - Dashboard: `https://www.arcgis.com/apps/dashboards/26d4ce294f764a7e8ec24356e19b5124`
